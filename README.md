@@ -11,7 +11,7 @@ To use the Floating Form Labels crumb we need to call the `floatLabels` function
 
 ### Example use:
 ```js
-window.CodeCrumbs.floatLabels({
+window.CodeCrumbs.FloatLabels({
   // options
   inputSelector: ".input",
   labelActiveClass: "float",
